@@ -423,7 +423,6 @@ nav ul li a:hover {
 
 .scroll-slogan {
   position: relative;
-  top: 70px; /* Pushes it below fixed header */
   width: 100%;
   background-color: black;
   color: gold;
